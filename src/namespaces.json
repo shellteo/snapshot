@@ -1,4 +1,18 @@
 {
+  "y3d": {
+    "key": "y3d",
+    "symbol": "Y3D",
+    "name": "Y3d Finance",
+    "address": "0xc7fd9ae2cf8542d71186877e21107e1f3a0b55ef",
+    "token": "0xc7fd9ae2cf8542d71186877e21107e1f3a0b55ef",
+    "image": "0xc7fd9ae2cf8542d71186877e21107e1f3a0b55ef",
+    "coreDevs": [
+      "0x6465F1250c9fe162602Db83791Fc3Fb202D70a7B"
+    ],
+    "min": 0.001,
+    "noncompliant": [],
+    "visible": true
+  },
   "yam": {
     "key": "yam",
     "symbol": "YAM",
@@ -34,7 +48,7 @@
       "QmcdFBNaFQ6XPdYoCSHZDvUM3u5bkHTVweRkdBeg6YkkCt",
       "QmSHZshfwsvHpLV8ZcMBPB69a5eKKe7yAkqJ4sRBAoWnzK"
     ],
-    "visible": true
+    "visible": false
   },
   "yearn": {
     "key": "yearn",
@@ -46,7 +60,7 @@
     "coreDevs": [],
     "min": 0,
     "noncompliant": [],
-    "visible": true
+    "visible": false
   },
   "balancer": {
     "key": "balancer",

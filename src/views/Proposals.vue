@@ -99,6 +99,7 @@ export default {
       return Object.fromEntries(
         Object.entries(this.proposals)
           .filter(proposal => {
+            console.log(proposal);
             if (proposal[1].balance < this.namespace.min) return false;
             if (
               this.selectedState !== 'Noncompliant' &&
